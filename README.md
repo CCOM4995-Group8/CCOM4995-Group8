@@ -14,6 +14,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Estoy trabajando en crear una plataforma para vender programas de hacer ejercicios.
 
+- Integrante 3:
+- 👋 Hola, soy David Carballeira (801-20-2132)
+- 👀 Estoy interesado en aprender a programar con concentracion en ciberseguridad. 
+- 🌱 Ahora mismo estoy aprendiendo sobre sistemas operativos y desarollo de videojuegos.
+- 📫 Me pueden contactar al 787-930-9578 (Whastaspp) o a mi email david.carballeira@upr.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Me gustan los videojuegos y ver series.
+
+  
+
 <!---
 CCOM4995-Group8/CCOM4995-Group8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
